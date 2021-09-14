@@ -7,5 +7,5 @@
 
 **RUNNING**
 
-To run with desktop screen size: `npx cypress run --headed --env configFile=desktop`
-To run with mobile screen size: `npx cypress run --headed --env configFile=mobile`
+1. To run with desktop screen size: `npx cypress run --headed --env configFile=desktop`
+2. To run with mobile screen size: `npx cypress run --headed --env configFile=mobile`
