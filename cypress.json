@@ -1,0 +1,7 @@
+{   
+    "env": {
+        "configFile": "desktop"
+    },
+    "baseUrl": "http://angularjs.realworld.io/#/",
+    "defaultCommandTimeout": 10000
+}
